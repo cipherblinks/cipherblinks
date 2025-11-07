@@ -44,11 +44,11 @@ I love solving real-world problems through code and turning ideas into impactful
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithblinks&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cipherblinks&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithblinks&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipherblinks&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=codewithblinks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=cipherblinks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -56,13 +56,13 @@ I love solving real-world problems through code and turning ideas into impactful
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="cipherblinks.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://x.com/cipherblinks" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:udensit565@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
